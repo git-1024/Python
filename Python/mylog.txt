@@ -1,0 +1,4 @@
+root@192.168.43.166's password: root1234
+
+Last login: Tue Oct 16 17:09:12 2018 from 192.168.43.100
+]0;root@localhost:~[?1034h[root@localhost ~]# 
